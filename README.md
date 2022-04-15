@@ -18,3 +18,9 @@ I'm a 2024 CSE undergrad. Currently learning Data Structures and Algorithms, and
 </p>
 
 <hr>
+<h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{rahulXbarnwal}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{rahulXbarnwal}/count.svg)  
+  
+</a>
