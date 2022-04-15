@@ -29,11 +29,11 @@ I'm a 2024 CSE undergrad. Currently learning Data Structures and Algorithms, and
 # Github Activity📊:
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulXbarnwal&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulXbarnwal&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" >
    </tr> 
   <tr>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulXbarnwal&theme=tokyonight"  display=block width=100% height=auto alt="3" >
-    <img src="https://github-readme-stats.vercel.app/api?username=rahulXbarnwal&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" >
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulXbarnwal&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=rahulXbarnwal&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
    </tr>
   
 </table>
