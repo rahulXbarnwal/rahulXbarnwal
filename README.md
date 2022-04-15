@@ -6,7 +6,7 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulXbarnwal&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Rahul Barnwal" /></a></p>
 
 ### Some more about me
-- 🔭 I am currently working on Backend Development with Python-Django
+- 🔭 I am currently working on Backend Development
 - 🌱 I’m currently learning Competitive Coding & DSA
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons
 - 💬 Ask me about DSA
