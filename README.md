@@ -21,7 +21,7 @@
 <a href="https://instagram.com/_its_._rahul_._?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul" height="30" width="40" /></a>
 </p>
  <br> 
- <span align="center">
+ <div align="center">
   <img alt="html5" width="60px" src="https://img.icons8.com/color/240/000000/html-5.png">
   <img alt="css3" width="60px" src="https://img.icons8.com/color/240/000000/css3.png">
   <img alt="javascript" width="60px" src="https://img.icons8.com/color/240/000000/javascript.png" />
@@ -31,7 +31,7 @@
   <img alt="github" width="60px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
   <img alt="visual studio code" width="60px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />  
   <img src="https://img.icons8.com/color/64/000000/python--v1.png"/>
-</span>
+</div>
 
 <hr>
 <h3 align="center">Visitor Count</h3>
