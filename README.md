@@ -4,10 +4,6 @@ I'm a 2024 CSE undergrad. Currently learning Data Structures and Algorithms, and
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulXbarnwal&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Rahul Barnwal" /></a></p>
 
-<p align="center">
-  <img src="https://github.com/rahulXbarnwal/rahulXbarnwal/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 ### Some more about me
 - 🔭 I am currently working on Backend Development with Python-Django
 - 🌱 I’m currently learning Competitive Coding & DSA
