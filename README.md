@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px">
 ## Myself Rahul Barnwal
-#### I'm a 2024 CSE undergrad. Currently learning Data Structures and Algorithms, and learning Backend web development. I'm skilled in Frontend Web development - React. And I am a good problem solver and Competitive programmer.
+#### I'm a 2024 CSE undergrad. Currently learning Data Structures and Algorithms & Backend web development. I'm skilled in Frontend Web development - React. And I am a good problem solver and Competitive programmer.
 
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulXbarnwal&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Rahul Barnwal" /></a></p>
