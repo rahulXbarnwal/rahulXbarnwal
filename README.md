@@ -2,7 +2,7 @@
 I'm a 2024 CSE undergrad. Currently learning Data Structures and Algorithms, and learning Backend web development. I'm skilled in Frontend Web development - React. And I am a good problem solver and Competitive programmer.
 
 ### Some more about me
-- 🔭 I am currently working on Backend Development using Python-Django
+- 🔭 I am currently working on Backend Development with Python-Django
 - 🌱 I’m currently learning Competitive Coding & DSA
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons
 - 💬 Ask me about DSA
@@ -34,8 +34,7 @@ I'm a 2024 CSE undergrad. Currently learning Data Structures and Algorithms, and
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulXbarnwal&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahulXbarnwal&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
-  </td>
+     
   </tr>
 </table>
 
