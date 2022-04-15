@@ -11,8 +11,8 @@ I'm a 2024 CSE undergrad. Currently learning Data Structures and Algorithms, and
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://dev.to/apurvatech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="apurvatech" height="30" width="40" /></a>
-<a href="https://twitter.com/mindwrapper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mindwrapper" height="30" width="40" /></a>
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 <a href="https://linkedin.com/in/apurva866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurva866" height="30" width="40" /></a>
 <a href="https://instagram.com/mind.wrapper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mind.wrapper" height="30" width="40" /></a>
 <a href="https://medium.com/@apurva866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@apurva866" height="30" width="40" /></a>
