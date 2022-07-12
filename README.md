@@ -1,4 +1,4 @@
-# Hey there! <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="15px">
+# Hey there! <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="45px">
 ## Myself Rahul Barnwal
 #### I'm a 2024 CSE undergrad. Currently learning Data Structures and Algorithms. I'm skilled in Frontend Web development - React. And I am a good problem solver and Competitive programmer.
 
