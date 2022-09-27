@@ -2,6 +2,7 @@
 ## Myself Rahul Barnwal
 #### I'm a 2024 CSE undergrad. Currently learning Data Structures and Algorithms. I'm skilled in Frontend Web development - React. And I am a good problem solver and Competitive programmer.
 
+[![@rahulbarnwal's Holopin board](https://holopin.io/api/user/board?user=rahulbarnwal)](https://holopin.io/@rahulbarnwal)
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulXbarnwal&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Rahul Barnwal" /></a></p>
 
