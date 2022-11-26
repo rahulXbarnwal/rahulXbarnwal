@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons
 - 💬 Ask me about DSA
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rahul-barnwal-64807a220/)
-- ⚡ Fun fact: I love to sing
+- ⚡ Fun fact: I have an infinite journey
 
 <hr>
 
