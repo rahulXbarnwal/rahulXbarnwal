@@ -16,8 +16,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/rahul-barnwal-64807a220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul" height="30" width="40" /></a>
-<a href="https://instagram.com/_its_._rahul_._?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahul-barnwal-64807a220/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rahul" height="30" width="40" /></a>
 </p>
  <br> 
  
