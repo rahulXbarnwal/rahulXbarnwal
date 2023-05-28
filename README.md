@@ -6,11 +6,11 @@
 
 ### Some more about me
 - 🔭 I am currently working on Latest Development skills
-- 🌱 I’m currently learning Competitive Coding & DSA
+- 🌱 I’m currently upskilling myself
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons
-- 💬 Ask me about DSA
+- 💬 Ask me about DSA, MERN and Competitive Programming
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rahul-barnwal-64807a220/)
-- ⚡ Fun fact: I have an infinite journey
+- ⚡ Fun fact: Sab Moh Maya Hai
 
 <hr>
 
