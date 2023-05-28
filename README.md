@@ -26,14 +26,21 @@
  
  ## Languages and Tools
  <div align="center">
-  <img alt="html5" width="60px" src="https://img.icons8.com/color/240/000000/html-5.png">
-  <img alt="css3" width="60px" src="https://img.icons8.com/color/240/000000/css3.png">
-  <img alt="javascript" width="60px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-  <img src = "https://img.icons8.com/plasticine/2x/react.png" width="60px"/>
-   <img src = "https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="60px"/>
-  <img alt="github" width="60px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-  <img alt="visual studio code" width="60px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />  
-  <img src="https://img.icons8.com/color/64/000000/python--v1.png"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+ <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+ <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+ <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 </div>
 
 <hr>
